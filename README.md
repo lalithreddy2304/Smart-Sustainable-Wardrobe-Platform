@@ -96,7 +96,7 @@ Run the development server:
 
 pnpm dev  
 
-Open https://github.com/lalithreddy2304/Smart-Sustainable-Wardrobe-Platform in your browser.
+Open  https://smart-sustainable-wardrobe-platform.vercel.app in your browser.
 
 ---
 
