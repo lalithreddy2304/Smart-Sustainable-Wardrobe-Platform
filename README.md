@@ -88,7 +88,7 @@ Each insight explains why a suggestion is made, making the system transparent an
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/smart-sustainable-wardrobe-platform.git  
+git clone https://github.com/Lalithreddy2304/smart-sustainable-wardrobe-platform.git  
 cd smart-sustainable-wardrobe-platform  
 pnpm install  
 
@@ -96,7 +96,7 @@ Run the development server:
 
 pnpm dev  
 
-Open http://localhost:3000 in your browser.
+Open https://github.com/lalithreddy2304/Smart-Sustainable-Wardrobe-Platform in your browser.
 
 ---
 
